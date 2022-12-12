@@ -7,6 +7,7 @@ The following Python packages are required to run the code in this repository:
 * datasets
 * transformers==4.17.0
 * jiwery
+* jiwer
 * librosa
 * torchaudio_augmentations
 * audio_augmentations
